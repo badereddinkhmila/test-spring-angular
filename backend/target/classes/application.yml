@@ -1,0 +1,10 @@
+spring:
+  port: 8080
+  data:
+    mongodb:
+      authentication-database: admin
+      username: beprime-dev-user
+      password: beprime-dev-password
+      database: beprime-dev-db
+      port: 27017
+      host: localhost
