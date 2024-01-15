@@ -1,5 +1,4 @@
 spring:
-  port: 8080
   data:
     mongodb:
       authentication-database: admin
@@ -7,4 +6,8 @@ spring:
       password: beprime-dev-password
       database: beprime-dev-db
       port: 27017
-      host: localhost
+      host: 172.19.0.2
+server:
+  port: 8080
+  servlet:
+    context-path: '/api/v1'

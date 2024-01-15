@@ -1,1 +1,16 @@
 /home/badreddine/portfolio/test-spring-angular/backend/src/main/java/com/BePrimeTech/technicalTest/TechnicalTestApplication.java
+/home/badreddine/portfolio/test-spring-angular/backend/src/main/java/com/BePrimeTech/technicalTest/model/Hotel.java
+/home/badreddine/portfolio/test-spring-angular/backend/src/main/java/com/BePrimeTech/technicalTest/model/Reservation.java
+/home/badreddine/portfolio/test-spring-angular/backend/src/main/java/com/BePrimeTech/technicalTest/service/Implementation/ReservationServiceImpl.java
+/home/badreddine/portfolio/test-spring-angular/backend/src/main/java/com/BePrimeTech/technicalTest/service/Implementation/HotelServiceImpl.java
+/home/badreddine/portfolio/test-spring-angular/backend/src/main/java/com/BePrimeTech/technicalTest/model/ReservationItem.java
+/home/badreddine/portfolio/test-spring-angular/backend/src/main/java/com/BePrimeTech/technicalTest/repository/implementation/ReservationItemRepositoryImpl.java
+/home/badreddine/portfolio/test-spring-angular/backend/src/main/java/com/BePrimeTech/technicalTest/service/ReservationService.java
+/home/badreddine/portfolio/test-spring-angular/backend/src/main/java/com/BePrimeTech/technicalTest/repository/ReservationItemRepository.java
+/home/badreddine/portfolio/test-spring-angular/backend/src/main/java/com/BePrimeTech/technicalTest/repository/implementation/HotelRepositoryImpl.java
+/home/badreddine/portfolio/test-spring-angular/backend/src/main/java/com/BePrimeTech/technicalTest/repository/ReservationRepository.java
+/home/badreddine/portfolio/test-spring-angular/backend/src/main/java/com/BePrimeTech/technicalTest/repository/HotelRepository.java
+/home/badreddine/portfolio/test-spring-angular/backend/src/main/java/com/BePrimeTech/technicalTest/controller/ReservationController.java
+/home/badreddine/portfolio/test-spring-angular/backend/src/main/java/com/BePrimeTech/technicalTest/repository/implementation/ReservationRepositoryImpl.java
+/home/badreddine/portfolio/test-spring-angular/backend/src/main/java/com/BePrimeTech/technicalTest/service/HotelService.java
+/home/badreddine/portfolio/test-spring-angular/backend/src/main/java/com/BePrimeTech/technicalTest/controller/HotelController.java
