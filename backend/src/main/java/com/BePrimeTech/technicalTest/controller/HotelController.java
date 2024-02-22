@@ -11,6 +11,7 @@ import java.util.List;
 import java.util.function.Supplier;
 import java.util.logging.Logger;
 
+@CrossOrigin(origins = "http://localhost:3000")
 @RestController
 @RequestMapping(path = "/hotels")
 public class HotelController {
